@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Fetch Grocery",
+      "day": "December 5th at 4:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "task": "Prepare Lunch",
+      "day": "December 6th at 1:30pm",
+      "reminder": false
+    },
+    {
+      "task": "Go Nuts",
+      "day": "I'm Now",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
